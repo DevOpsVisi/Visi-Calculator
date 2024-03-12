@@ -1,2 +1,2 @@
 # Visi-Calculator
-This is a Maven Calculator Application
+This is an Calculator application
